@@ -2,7 +2,6 @@
 // Description: Move the active app's window to the center of the screen
 // Author: Nick Sergeant
 // Twitter: @nicksergeant
-// Shortcut: cmd option control up
 
 import "@johnlindquist/kit";
 
